@@ -1,0 +1,16 @@
+$bgColor: green;
+$redColor: red;
+$yellowColor: yellow;
+
+.btn {
+  background: $bgColor;
+  padding: 10px;
+
+  .btn-show {
+    color: $redColor;
+  }
+
+  .btn-hide {
+    color: $yellowColor;
+  }
+}
