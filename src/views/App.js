@@ -7,6 +7,7 @@ import Home from "./home/Home";
 import MyComponent from "./example/MyComponent";
 import ListUser from "./user/ListUser";
 import DetailUser from "./user/DetailUser";
+
 function App() {
   return (
     <Router>
